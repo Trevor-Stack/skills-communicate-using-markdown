@@ -3,3 +3,5 @@
 
 ###### This is an `<h6>` header, which is the smallest
 I created multiple headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
